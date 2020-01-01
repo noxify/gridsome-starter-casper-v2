@@ -1,6 +1,6 @@
 # Gridsome Casper V2 Starter
 
-Rebuild of [Ghost Casper V2](https://github.com/TryGhost/Casper/tree/2.4) based on tailwindcss.
+Grisome starter based on [Ghost Casper V2](https://github.com/TryGhost/Casper/tree/2.4) and tailwindcss.
 
 ## Demo
 [https://gridsome-starter-casper-v2.now.sh/](https://gridsome-starter-casper-v2.now.sh/)
