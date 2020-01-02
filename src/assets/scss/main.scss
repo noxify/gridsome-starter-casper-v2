@@ -288,13 +288,7 @@ table {
 
 @media(min-width:640px) {
 
-  .no-image {
-    .post-content {
-      margin-top: 0px;
-    }
-  }
-
-  .post-content {
+  .post-content:not(.no-image) {
     margin-top: -140px;
 
     &:before {

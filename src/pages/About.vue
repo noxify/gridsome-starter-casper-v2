@@ -5,8 +5,8 @@
         <header class="mt-10 pt-10 mb-10 text-center">
           <h1 class="text-5xl font-bold">About</h1>
         </header>
-        <section class="post-full-content no-image">
-          <div class="post-content text-2xl font-serif font-hairline text-gray-700">
+        <section class="post-full-content">
+          <div class="post-content text-2xl font-serif font-hairline text-gray-700 no-image">
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Nunc commodo finibus leo, non tempus magna vehicula ac.
