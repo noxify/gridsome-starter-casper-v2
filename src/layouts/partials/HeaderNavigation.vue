@@ -14,7 +14,7 @@
         </li>  
         </ul>
       </div>
-      <div class="w-full md:w-1/2 hidden md:block">
+      <div class="w-full md:w-1/2 hidden md:block self-center">
         <ul class="flex justify-center md:justify-end">
           <li 
           :key="element.name" 

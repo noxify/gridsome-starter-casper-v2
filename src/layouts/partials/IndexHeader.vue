@@ -6,9 +6,9 @@
       height="400"
       class="object-cover w-full absolute -z-10 h-full w-full"
     ></g-image>
-
+    
     <div class="flex w-full relative text-center text-gray-400 mx-auto">
-      <div class="logo mx-auto">
+      <div class="logo py-16 md:py-24 mx-auto">
         <h2 class="m-0">
           <span class="text-4xl">
             <font-awesome :icon="['fas', 'ghost']" class="mb-1 mr-3"></font-awesome>
@@ -20,7 +20,7 @@
     </div>
 
     <div class="flex w-full relative text-center text-gray-400 mx-auto px-6 sm:px-0">
-      <div class="flex-1 text-gray-500 text-xs text-center md:pb-2 md:mt-8 md:mb-20">
+      <div class="flex-1 text-gray-500 text-xs text-center pb-1 md:mt-8 md:mb-20">
         <div>
           <div class="container mx-auto flex flex-wrap">
             <div class="w-full md:w-1/2">

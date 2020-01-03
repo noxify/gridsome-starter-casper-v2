@@ -39,8 +39,7 @@ table {
 }
 
 .logo {
-  align-items: center;
-  padding: 7vw 4vw;
+  @apply items-center;
   max-height: 450px;
 }
 
