@@ -1,3 +1,6 @@
+> **We have moved the Repository to https://github.com/jammeryhq**
+> * https://github.com/jammeryhq/gridsome-starter-casper-v2
+
 # Gridsome Casper V2 Starter
 
 Grisome starter based on [Ghost Casper V2](https://github.com/TryGhost/Casper/tree/2.4) and tailwindcss.
